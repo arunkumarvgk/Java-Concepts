@@ -32,7 +32,7 @@ public class BB extends AA {
 		
 		bbb.we();
 		bbb.we1();
-		bbb.go(12);
+		//bbb.go(12);
 	}
 
 }

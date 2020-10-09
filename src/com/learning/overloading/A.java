@@ -9,7 +9,7 @@ public class A {
 		System.out.println("int A");
 	}
 	
-	public final String Hello(){
+	public String Hello(){
 		return "Jello";
 	}
 }
